@@ -1,0 +1,19 @@
+.tabla {
+    width: 500px;
+    margin: 0 auto;
+    border: none;
+    
+}
+
+#mezo {
+    border-collapse: separate;
+    border-spacing: 6px;
+}
+td, th {
+    padding: 6px;
+}
+
+.hatter{
+    background-color:#DC143C;
+    color: #F0F8FF
+}
