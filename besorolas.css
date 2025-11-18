@@ -17,3 +17,7 @@ td, th {
     background-color:#DC143C;
     color: #F0F8FF
 }
+
+td:first-child {
+    width:240px;
+}
