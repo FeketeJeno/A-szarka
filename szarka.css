@@ -3,19 +3,16 @@ body {
     color: #00008B;
 }
 
-h1,h2 {
-    color: #DC143C;
-}
-
 hr {
     margin: 0 auto;
 }
 
 .cimke {
     display:block;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 .jobbra{
     float:right;
 }
+
